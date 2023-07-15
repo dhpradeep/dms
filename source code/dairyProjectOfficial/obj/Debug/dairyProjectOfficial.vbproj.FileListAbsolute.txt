@@ -1,0 +1,182 @@
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe.config
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.pdb
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.xml
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.Resources.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbproj.GenerateResource.Cache
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbproj.CoreCompileInputs.cache
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.exe
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.xml
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.pdb
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.HomePage.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.LoginForm.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.HelpForm.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.BackupForm.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\mydatabase.mdb
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.addFarmers.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.changePassword.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe.manifest
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.application
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.exe.manifest
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.application
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.detailsForm.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareHoldersDetails.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.farmersMoreDetails.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.storeMilk.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\itextsharp.dll
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\itextsharp.pdfa.dll
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\itextsharp.xtra.dll
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\bin\Debug\itextsharp.xml
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.otherSetting.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.addUsers.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.aboutForm.resources
+C:\Users\iExploit\source\repos\dairyProjectOfficial\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.superAdmin.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\mydatabase.mdb
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe.config
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe.manifest
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.application
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.pdb
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.xml
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\itextsharp.dll
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\itextsharp.pdfa.dll
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\itextsharp.xtra.dll
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\itextsharp.xml
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbprojResolveAssemblyReference.cache
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.aboutForm.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.addFarmers.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.addUsers.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.BackupForm.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.changePassword.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.detailsForm.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.HelpForm.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.HomePage.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.LoginForm.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.farmersMoreDetails.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.Resources.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.otherSetting.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareHoldersDetails.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.storeMilk.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.superAdmin.resources
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbproj.GenerateResource.Cache
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbproj.CoreCompileInputs.cache
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.exe.manifest
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.application
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.exe
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.xml
+B:\dairyBackup\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.pdb
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\mydatabase.mdb
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe.config
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.pdb
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.xml
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\itextsharp.dll
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\itextsharp.pdfa.dll
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\itextsharp.xtra.dll
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\bin\Debug\itextsharp.xml
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.aboutForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.addFarmers.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.addUsers.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.BackupForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.changePassword.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.detailsForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.HelpForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.HomePage.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.LoginForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.farmersMoreDetails.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.Resources.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.otherSetting.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareHoldersDetails.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.storeMilk.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.superAdmin.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbproj.GenerateResource.Cache
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbproj.CoreCompileInputs.cache
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.exe
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.xml
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.pdb
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.companyData.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.editMilk.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.beforePrintAll.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.myPrint.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.viewprintdata.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_loan.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_income.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_expenditure.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_history.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.emi_calculator.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.emi_calculator_stat.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_loan_more.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareholders_bonus.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.otherSetting_account.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.cashflowstatement.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.balancesheet.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.testing.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.editFarmer.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_edit.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_edit_exp.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_sum.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareholders_previous_balance.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareholderDetails_all.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_yearView.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.detailsForm_edit.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 1.24.2018(semi-final-2)\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbprojResolveAssemblyReference.cache
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\bin\Debug\mydatabase.mdb
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe.config
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.exe
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.pdb
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\bin\Debug\dairyProjectOfficial.xml
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\bin\Debug\itextsharp.dll
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\bin\Debug\itextsharp.pdfa.dll
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\bin\Debug\itextsharp.xtra.dll
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\bin\Debug\itextsharp.xml
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.aboutForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.addFarmers.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.addUsers.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.BackupForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.beforePrintAll.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.changePassword.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.companyData.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_loan.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_loan_more.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_edit.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_edit_exp.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_expenditure.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_history.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_income.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_statement_sum.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_yearView.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.detailsForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.detailsForm_edit.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.editFarmer.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.emi_calculator.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.emi_calculator_stat.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.HelpForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.HomePage.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.LoginForm.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.farmersMoreDetails.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.Resources.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.myPrint.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.otherSetting.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.otherSetting_account.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareholderDetails_all.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareHoldersDetails.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareholders_bonus.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.shareholders_previous_balance.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.storeMilk.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.superAdmin.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.viewprintdata.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbproj.GenerateResource.Cache
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbproj.CoreCompileInputs.cache
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.exe
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.xml
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.pdb
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.company_loan_hist.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.share_amount.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.share_amount_transfer.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.summarize_data.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbproj.CopyComplete
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.add_license.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.active_license.resources
+C:\Users\iExploit\Documents\Visual Studio 2017\dairyProjectOfficial 05.23.2018\dairyProjectOfficial\obj\Debug\dairyProjectOfficial.vbprojAssemblyReference.cache

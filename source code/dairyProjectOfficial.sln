@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dairyProjectOfficial", "dairyProjectOfficial\dairyProjectOfficial.vbproj", "{06968549-AC3F-496D-BBC8-D3524B146610}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{6C6EDA58-141A-44AD-BDF1-F5217092EA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06968549-AC3F-496D-BBC8-D3524B146610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06968549-AC3F-496D-BBC8-D3524B146610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06968549-AC3F-496D-BBC8-D3524B146610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06968549-AC3F-496D-BBC8-D3524B146610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6EDA58-141A-44AD-BDF1-F5217092EA2A}.Debug|Any CPU.ActiveCfg = Debug
+		{6C6EDA58-141A-44AD-BDF1-F5217092EA2A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A0493D7-2DC8-40CC-93DC-54AF98EACB9B}
+	EndGlobalSection
+EndGlobal
